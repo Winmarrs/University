@@ -1,2 +1,3 @@
 # University
-Вступ до специальности
+hello
+ntu khpi kill me
